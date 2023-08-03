@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\circleClass\circleClass\bin\Debug\net7.0\circleClass.exe
+C:\Users\admin\source\repos\circleClass\circleClass\bin\Debug\net7.0\circleClass.deps.json
+C:\Users\admin\source\repos\circleClass\circleClass\bin\Debug\net7.0\circleClass.runtimeconfig.json
+C:\Users\admin\source\repos\circleClass\circleClass\bin\Debug\net7.0\circleClass.dll
+C:\Users\admin\source\repos\circleClass\circleClass\bin\Debug\net7.0\circleClass.pdb
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.AssemblyInfo.cs
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.dll
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\refint\circleClass.dll
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.pdb
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\circleClass.genruntimeconfig.cache
+C:\Users\admin\source\repos\circleClass\circleClass\obj\Debug\net7.0\ref\circleClass.dll

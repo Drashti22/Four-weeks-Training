@@ -1,0 +1,24 @@
+<p>info works!</p>
+<form action="" #frm="ngForm" (ngSubmit)="updateInfo(frm)">
+    <div>
+        <input type="text" name="location" value="" ngModel>
+        <button type="submit">Add Info</button>
+    </div>
+</form>
+
+
+
+
+
+<button type="button" name="button" (click)="getInfoFromService1()" >Employee1</button>
+<ul>
+    <li *ngFor="let info of infoReceived1">{{info}}</li>
+</ul>
+<button type="button" name="button" (click)="getInfoFromService2()" >Employee2</button>
+<ul>
+    <li *ngFor="let info of infoReceived2">{{info}}</li>
+</ul>
+<button type="button" name="button" (click)="getInfoFromService3()" >Employee3</button>
+<ul>
+    <li *ngFor="let info of infoReceived3">{{info}}</li>
+</ul>

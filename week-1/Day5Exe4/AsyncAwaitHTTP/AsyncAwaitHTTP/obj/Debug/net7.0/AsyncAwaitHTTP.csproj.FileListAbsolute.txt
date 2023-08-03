@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.AssemblyInfo.cs
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\bin\Debug\net7.0\AsyncAwaitHTTP.exe
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\bin\Debug\net7.0\AsyncAwaitHTTP.deps.json
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\bin\Debug\net7.0\AsyncAwaitHTTP.runtimeconfig.json
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\bin\Debug\net7.0\AsyncAwaitHTTP.dll
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\bin\Debug\net7.0\AsyncAwaitHTTP.pdb
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.dll
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\refint\AsyncAwaitHTTP.dll
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.pdb
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\AsyncAwaitHTTP.genruntimeconfig.cache
+C:\Users\admin\source\repos\AsyncAwaitHTTP\AsyncAwaitHTTP\obj\Debug\net7.0\ref\AsyncAwaitHTTP.dll

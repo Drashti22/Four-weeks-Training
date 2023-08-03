@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\bin\Debug\net7.0\LINQOpearationsAPP.exe
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\bin\Debug\net7.0\LINQOpearationsAPP.deps.json
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\bin\Debug\net7.0\LINQOpearationsAPP.runtimeconfig.json
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\bin\Debug\net7.0\LINQOpearationsAPP.dll
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\bin\Debug\net7.0\LINQOpearationsAPP.pdb
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.AssemblyInfo.cs
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.dll
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\refint\LINQOpearationsAPP.dll
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.pdb
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\LINQOpearationsAPP.genruntimeconfig.cache
+C:\Users\admin\source\repos\LINQOpearationsAPP\LINQOpearationsAPP\obj\Debug\net7.0\ref\LINQOpearationsAPP.dll

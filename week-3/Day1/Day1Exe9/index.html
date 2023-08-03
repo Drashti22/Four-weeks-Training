@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function printText(){
+        var name= document.getElementById("name").value
+        document.getElementById("demo").innerHTML="Hello, How Are you," + name + "?"
+        }
+        function changeColor(){
+            var selectedColor= document.getElementById("Color").value
+            var output=document.getElementById("paragraph");
+            output.style.color=selectedColor;
+        }
+        
+    </script>
+</head>
+<body>
+    <input type="text" placeholder="Enter your Name" id="name">
+    <button onclick="printText()">Click</button>
+    <select name="" id="Color" onChange="changeColor()">
+        <option value="red">red</option>
+        <option value="blue">blue</option>
+        <option value="aqua">aqua</option>
+        <option value="green">green</option>
+    </select>
+    
+    <p id="paragraph">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae repellendus porro maiores eveniet, officia, earum fugiat mollitia corporis, quidem modi beatae harum tempore molestias velit quibusdam enim sunt quis voluptas?</p>
+    <p id="demo"></p>
+</body>
+</html>

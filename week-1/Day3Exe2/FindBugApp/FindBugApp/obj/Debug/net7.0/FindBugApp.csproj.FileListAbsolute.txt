@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\bin\Debug\net7.0\FindBugApp.exe
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\bin\Debug\net7.0\FindBugApp.deps.json
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\bin\Debug\net7.0\FindBugApp.runtimeconfig.json
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\bin\Debug\net7.0\FindBugApp.dll
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\bin\Debug\net7.0\FindBugApp.pdb
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.dll
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\refint\FindBugApp.dll
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.pdb
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\FindBugApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\FindBugApp\FindBugApp\obj\Debug\net7.0\ref\FindBugApp.dll

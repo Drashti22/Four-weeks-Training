@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\bankAccount\bankAccount\bin\Debug\net7.0\bankAccount.exe
+C:\Users\admin\source\repos\bankAccount\bankAccount\bin\Debug\net7.0\bankAccount.deps.json
+C:\Users\admin\source\repos\bankAccount\bankAccount\bin\Debug\net7.0\bankAccount.runtimeconfig.json
+C:\Users\admin\source\repos\bankAccount\bankAccount\bin\Debug\net7.0\bankAccount.dll
+C:\Users\admin\source\repos\bankAccount\bankAccount\bin\Debug\net7.0\bankAccount.pdb
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.AssemblyInfo.cs
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.dll
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\refint\bankAccount.dll
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.pdb
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\bankAccount.genruntimeconfig.cache
+C:\Users\admin\source\repos\bankAccount\bankAccount\obj\Debug\net7.0\ref\bankAccount.dll

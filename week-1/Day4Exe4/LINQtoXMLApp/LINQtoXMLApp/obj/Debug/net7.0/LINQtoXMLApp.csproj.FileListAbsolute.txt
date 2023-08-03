@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\bin\Debug\net7.0\LINQtoXMLApp.exe
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\bin\Debug\net7.0\LINQtoXMLApp.deps.json
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\bin\Debug\net7.0\LINQtoXMLApp.runtimeconfig.json
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\bin\Debug\net7.0\LINQtoXMLApp.dll
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\bin\Debug\net7.0\LINQtoXMLApp.pdb
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.dll
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\refint\LINQtoXMLApp.dll
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.pdb
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\LINQtoXMLApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\LINQtoXMLApp\LINQtoXMLApp\obj\Debug\net7.0\ref\LINQtoXMLApp.dll

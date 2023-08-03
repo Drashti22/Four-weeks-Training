@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\bin\Debug\net7.0\IDisposeMethod.exe
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\bin\Debug\net7.0\IDisposeMethod.deps.json
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\bin\Debug\net7.0\IDisposeMethod.runtimeconfig.json
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\bin\Debug\net7.0\IDisposeMethod.dll
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\bin\Debug\net7.0\IDisposeMethod.pdb
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.AssemblyInfo.cs
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.dll
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\refint\IDisposeMethod.dll
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.pdb
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\IDisposeMethod.genruntimeconfig.cache
+C:\Users\admin\source\repos\IDisposeMethod\IDisposeMethod\obj\Debug\net7.0\ref\IDisposeMethod.dll

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    var student={Name: "Drashti", Gradelevel: 12, Course: ["Maths", "Science", "Biology"]}
+    function addCourse(courseName){
+        student.Course.push(courseName); 
+        
+    }
+    // addCourse("Biology")
+    console.log(student)
+  
+   var students={Name: "Drashti", Gradelevel: 12, Course: ["Maths", "Science"]}
+    function removeCourse(courseName){
+        
+        const index = student.Course.indexOf(courseName);
+        if(index !== -1){
+            students.Course.splice(index, 1);
+        }
+    }
+    removeCourse("Science");
+    console.log(student)
+
+    var Children=[{Name: "Drashti", Gradelevel: 12, Course:  ["Maths", "Science", ]},
+                {Name: "Kunal", Gradelevel: 12, Course:   [ "Science", "Biology"]},
+                {Name: "Nirva", Gradelevel: 12, Course:  ["Maths", "Biology"]} ]
+                     
+                for (var i = 0; i < Children.length; i++) {
+                var student = Children[i];
+
+                // Check if "Maths" is in the Course array of the current student
+                if (student.Course.includes("Maths")) {
+                    console.log(student.Name + " has Maths in their courses.");
+                }
+                }
+</script>
+<body>
+    
+</body>
+</html>

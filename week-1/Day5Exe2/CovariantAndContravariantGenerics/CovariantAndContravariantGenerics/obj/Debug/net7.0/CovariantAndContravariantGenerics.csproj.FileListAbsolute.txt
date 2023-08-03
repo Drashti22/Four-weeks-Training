@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.exe
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.deps.json
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.runtimeconfig.json
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.dll
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.pdb
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.AssemblyInfo.cs
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.dll
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\refint\CovariantAndContravariantGenerics.dll
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.pdb
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.genruntimeconfig.cache
+C:\Users\admin\source\repos\CovariantAndContravariantGenerics\CovariantAndContravariantGenerics\obj\Debug\net7.0\ref\CovariantAndContravariantGenerics.dll

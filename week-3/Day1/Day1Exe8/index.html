@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+      const data=[
+        {name: "Drashti", profession: "Developer"},
+        {name: "Rushi", profession: "Developer"}
+      ]
+    // ---------------------  CallBack ------------------------------
+    //   function getData() {
+    //     setTimeout(() => {
+    //         let output = "";
+    //         data.forEach((item, index) => {
+    //         output += `<li>${item.name}</li>`;
+    //         });
+    //              document.body.innerHTML=output;
+    //         } , 1000);
+    //     } 
+
+    //     function createData(newData,callback){
+    //         setTimeout(()=>{
+    //             data.push(newData); 
+    //             callback()   
+    //         },2000)
+    //     }
+        
+    //     getData();
+    //     createData({name: "Anushka" , profession: "Developer"}, getData)
+
+    // --------------------------- Promise -------------------------------------
+
+    // function getData() {
+    //     setTimeout(() => {
+    //         let output = "";
+    //         data.forEach((item, index) => {
+    //         output += `<li>${item.name}</li>`;
+    //         });
+    //              document.body.innerHTML=output;
+    //         } , 1000);
+    //     } 
+
+    //     function createData(newData){
+    //         return new Promise((resolve, reject)=>{
+    //             setTimeout(()=>{
+    //             data.push(newData);
+    //             let error=false;
+    //             if(!error){
+    //                 resolve();
+    //             }
+    //             else{
+    //                 reject("Something went wrong")
+    //             }    
+    //         },2000);
+    //     });
+    //     }
+        
+    //     getData();
+    //     createData({name: "Anushka" , profession: "Developer"})
+    //     .then(getData)
+    //     .catch(err => console.log(err))
+
+    // ------------------------------- Async & Await -------------------------------
+
+    function getData() {
+        setTimeout(() => {
+            let output = "";
+            data.forEach((item, index) => {
+            output += `<li>${item.name}</li>`;
+            });
+                 document.body.innerHTML=output;
+            } , 1000);
+        } 
+
+        function createData(newData){
+            return new Promise((resolve, reject)=>{
+                setTimeout(()=>{
+                data.push(newData);
+                let error=false;
+                if(!error){
+                    resolve();
+                }
+                else{
+                    reject("Something went wrong")
+                }    
+            },2000);
+        });
+        }
+        
+        // getData();
+        // createData({name: "Anushka" , profession: "Developer"})
+        // .then(getData)
+        // .catch(err => console.log(err))
+
+        async function start(){
+            await createData({name: "Anushka" , profession: "Developer"})
+            getData();
+        }
+        start();
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

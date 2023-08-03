@@ -1,0 +1,23 @@
+<h1>{{title}}</h1>
+<!-- templatedriven -->
+<form action="" #loginForm="ngForm" (ngSubmit)=userLogin(loginForm.value)>
+  <input type="text" placeholder="Enter Name" name="name" ngModel>
+  <br><br>
+  <input type="password" placeholder="Enter Password" name="password" ngModel>
+  <br><br>
+  <button type="submit">login</button>
+  <button type="reset"> logout</button>
+</form>
+<br><br>
+<!-- reactive -->
+<form action="" [formGroup]="login" (ngSubmit)="loginUser()" >
+  <input type="text" placeholder="Enter Name" name="user" formControlName="user">
+  <br>
+  <span *ngIf="user && user.invalid && user.touched" style="color: red; font-size: 10px;">this field is not valid</span><br>
+  <input type="password" placeholder="Enter password" name="password" formControlName="password">
+  <br>
+  <span *ngIf="password && password.invalid && password.touched" style="color: red; font-size: 10px;">this field is not valid</span><br>
+  <br>
+  <button [disabled]="login.invalid">login</button>
+
+</form>

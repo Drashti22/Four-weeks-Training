@@ -1,0 +1,93 @@
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.staticwebassets.runtime.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.exe
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.deps.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.runtimeconfig.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.dll
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.pdb
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.ProductsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsWebApp.props
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsWebApp.props
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsWebApp.props
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\scopedcss\bundle\ProductsWebApp.styles.css
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\scopedcss\projectbundle\ProductsWebApp.bundle.scp.css
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.dll
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\refint\ProductsWebApp.dll
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.pdb
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\ProductsWebApp\ProductsWebApp\obj\Debug\net7.0\ref\ProductsWebApp.dll
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.staticwebassets.runtime.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.exe
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.deps.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.runtimeconfig.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.dll
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.pdb
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.ProductsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsWebApp.props
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsWebApp.props
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsWebApp.props
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\scopedcss\bundle\ProductsWebApp.styles.css
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\scopedcss\projectbundle\ProductsWebApp.bundle.scp.css
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.dll
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\refint\ProductsWebApp.dll
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.pdb
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ref\ProductsWebApp.dll
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.dll
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\refint\ProductsWebApp.dll
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.pdb
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.staticwebassets.runtime.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.exe
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.deps.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.runtimeconfig.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.dll
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\bin\Debug\net7.0\ProductsWebApp.pdb
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.ProductsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsWebApp.props
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsWebApp.props
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsWebApp.props
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\scopedcss\bundle\ProductsWebApp.styles.css
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\scopedcss\projectbundle\ProductsWebApp.bundle.scp.css
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ProductsWebApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\four-weeks-training\week -2\Day2Exe1\ProductsWebApp\obj\Debug\net7.0\ref\ProductsWebApp.dll

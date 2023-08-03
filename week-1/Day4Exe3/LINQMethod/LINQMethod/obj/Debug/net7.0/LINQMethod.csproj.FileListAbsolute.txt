@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\bin\Debug\net7.0\LINQMethod.exe
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\bin\Debug\net7.0\LINQMethod.deps.json
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\bin\Debug\net7.0\LINQMethod.runtimeconfig.json
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\bin\Debug\net7.0\LINQMethod.dll
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\bin\Debug\net7.0\LINQMethod.pdb
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.AssemblyInfo.cs
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.dll
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\refint\LINQMethod.dll
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.pdb
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\LINQMethod.genruntimeconfig.cache
+C:\Users\admin\source\repos\LINQMethod\LINQMethod\obj\Debug\net7.0\ref\LINQMethod.dll

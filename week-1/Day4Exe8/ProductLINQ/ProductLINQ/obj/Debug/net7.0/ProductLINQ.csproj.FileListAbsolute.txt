@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\bin\Debug\net7.0\ProductLINQ.exe
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\bin\Debug\net7.0\ProductLINQ.deps.json
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\bin\Debug\net7.0\ProductLINQ.runtimeconfig.json
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\bin\Debug\net7.0\ProductLINQ.dll
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\bin\Debug\net7.0\ProductLINQ.pdb
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.dll
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\refint\ProductLINQ.dll
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.pdb
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ProductLINQ.genruntimeconfig.cache
+C:\Users\admin\source\repos\ProductLINQ\ProductLINQ\obj\Debug\net7.0\ref\ProductLINQ.dll

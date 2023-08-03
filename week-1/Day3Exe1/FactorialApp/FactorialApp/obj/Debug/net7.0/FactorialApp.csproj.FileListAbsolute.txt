@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\bin\Debug\net7.0\FactorialApp.exe
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\bin\Debug\net7.0\FactorialApp.deps.json
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\bin\Debug\net7.0\FactorialApp.runtimeconfig.json
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\bin\Debug\net7.0\FactorialApp.dll
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\bin\Debug\net7.0\FactorialApp.pdb
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.dll
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\refint\FactorialApp.dll
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.pdb
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\FactorialApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\FactorialApp\FactorialApp\obj\Debug\net7.0\ref\FactorialApp.dll

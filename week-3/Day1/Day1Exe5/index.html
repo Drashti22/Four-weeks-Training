@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function countOccurrences(arr) {
+  // Create an empty object to store the counts
+  const occurrences = {};   
+
+  // Loop through the array
+  for (let i = 0; i < arr.length; i++) {
+    const element = arr[i];
+
+    // If the element is already in the occurrences object, increment its count
+    if (occurrences[element]) {
+      occurrences[element]++;
+    } else {
+      // If the element is not in the occurrences object, initialize its count to 1
+      occurrences[element] = 1;
+    }
+  }
+
+  return occurrences;
+}
+const myArray = [1, 2, 3, 2, 1, 4, 5, 4, 2];
+const result = countOccurrences(myArray);
+console.log(result);
+
+var string = "Drashti"
+var reversed = Array.from(string).reverse().join("")
+console.log(reversed)
+
+
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
